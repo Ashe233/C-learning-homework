@@ -1,0 +1,18 @@
+﻿  ConsoleApplication1.cpp
+I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\作业\作业3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\作业\作业3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\作业\作业3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\作业\作业3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,40): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\作业\作业3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\作业\作业3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\作业\作业3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\作业\作业3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,44): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\作业\作业3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\作业\作业3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\作业\作业3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\作业\作业3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  calculatescore.cpp
+I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\作业\作业3\ConsoleApplication1\ConsoleApplication1\calculatescore.cpp(11,9): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\作业\作业3\ConsoleApplication1\ConsoleApplication1\calculatescore.cpp(22,9): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  ConsoleApplication1.vcxproj -> I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\作业\作业3\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
